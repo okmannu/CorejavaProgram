@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Exception_pro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/company" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/company/Corejava_fundamentals" vcs="Git" />
+  </component>
+</project>
